@@ -1,4 +1,4 @@
-# vertical-drama-storyboard-v3
+# 爆款短剧拆分 Skill
 
 竖屏短剧分镜工业化拆分 skill（新格式 v3）。依据剧本、当集梗概与场景图，按三阶段门控流程产出竖屏短剧分镜 Markdown。
 
@@ -18,7 +18,7 @@ v3 同时完整保留 v2 全部规则：句末句号、方位词完整形式（�
 
 ## 目录结构
 
-- `SKILL.md` — 核心工作流 + 新格式十栏规范 + 输出前自检清单（20 项）
+- `SKILL.md` — 核心工作流 + 新格式十栏规范 + 输出前自检清单（21 项）
 - `references/01-format-template.md` — 十栏模版、逐项要求（①–⑭）、成品示例
 - `references/02-storyboard-requirements.md` — 场景图分析、光影、人物镜头、台词、情绪、自检
 - `references/03-prompt-library-light.md` — 光影 16 类 + 镜头 23 类词库
